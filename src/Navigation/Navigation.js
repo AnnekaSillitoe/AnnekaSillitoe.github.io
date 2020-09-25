@@ -42,7 +42,7 @@ const Navigation = () => {
           </a>
         </li>
         <li>
-          <a href="http://www.linkedin.com/annekasillitoe">
+          <a href="http://www.linkedin.com/in/annekasillitoe">
             <img src={linkedin} className="icon" alt="LinkedIn icon link" />
           </a>
         </li>
