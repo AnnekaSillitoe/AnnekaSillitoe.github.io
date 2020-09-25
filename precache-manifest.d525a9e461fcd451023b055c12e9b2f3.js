@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55e8dbb5518d3bc3ed42fffec491de7c",
+    "revision": "1f1eed2e069934c1d3685239713a1c72",
     "url": "/annekasillitoe.github.io/index.html"
   },
   {
-    "revision": "726d6539d6a3f5895b36",
+    "revision": "af2f6e8875d520e0143b",
     "url": "/annekasillitoe.github.io/static/css/main.771afacd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/annekasillitoe.github.io/static/js/2.8eae2628.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "726d6539d6a3f5895b36",
-    "url": "/annekasillitoe.github.io/static/js/main.ffb36dfa.chunk.js"
+    "revision": "af2f6e8875d520e0143b",
+    "url": "/annekasillitoe.github.io/static/js/main.a94d5515.chunk.js"
   },
   {
     "revision": "b4a6c2463e1dc315aa00",
